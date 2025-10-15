@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/de/6b/ee/de6beec2570fa6503b12d05ced0eb4cb.gif" alt="White Falcon Banner" width="100%" />
+  <img src="https://i.pinimg.com/originals/6e/f9/9d/6ef99d6fc9c8b84c6943a41bc192dfa1.gif" alt="White Falcon Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm White_Falcon</h1>
