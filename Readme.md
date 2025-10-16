@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 
-Low-level enthusiast | Systems programmer | Breaking things to understand them better
+Low-level enthusiast | Systems programmer | Breaking things to understand them better (Wanari 3la kadab hhh)
 
 ## 🛠️ Tech Stack
 
