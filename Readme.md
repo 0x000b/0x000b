@@ -2,25 +2,81 @@
   <img src="https://i.pinimg.com/originals/6e/f9/9d/6ef99d6fc9c8b84c6943a41bc192dfa1.gif" alt="White Falcon Banner" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm White_Falcon</h1>
-<h3 align="center">Ha2aw 2aw </h3>
+# 👋 Hey there, I'm 0x000b
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=0x000b&label=Profile%20views&color=0e75b6&style=flat" alt="0x000b" /> </p>
+<div align="center">
+  
+  [![X Follow](https://img.shields.io/badge/X-@WhiteFFalcon-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/WhiteFFalcon)
+  [![GitHub](https://img.shields.io/badge/GitHub-0x000b-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0x000b)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0x000b" alt="0x000b" /></a> </p>
+</div>
 
-<p align="left"> <a href="https://twitter.com/whiteffalcon" target="blank"><img src="https://img.shields.io/twitter/follow/whiteffalcon?logo=twitter&style=for-the-badge" alt="whiteffalcon" /></a> </p>
+## 🚀 About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/whiteffalcon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="whiteffalcon" height="30" width="40" /></a>
-</p>
+Low-level enthusiast | Systems programmer | Breaking things to understand them better
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## 🛠️ Tech Stack
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=0x000b&show_icons=true&locale=en&layout=compact" alt="0x000b" /></p>
+```asm
+; Languages I speak fluently
+section .data
+    languages db "C, C++, Assembly, Python, Bash, PowerShell", 0
+```
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=0x000b&show_icons=true&locale=en" alt="0x000b" /></p>
+<div align="center">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0x000b&" alt="0x000b" /></p>
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-654FF0?style=for-the-badge&logo=assemblyscript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+  ![0x000b's GitHub Stats](https://github-readme-stats.vercel.app/api?username=0x000b&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0x000b&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=0x000b&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=c9d1d9)
+
+</div>
+
+## 🎯 What I'm Working On
+
+- 🔧 Building low-level tools and utilities
+- 🐛 Reverse engineering interesting binaries
+- 📚 Writing clean, efficient code
+- 🧠 Learning something new every day
+
+## 💻 Code Philosophy
+
+```c
+#include <stdio.h>
+
+int main(void) {
+    printf("If it doesn't work, make it work.\n");
+    printf("If it works, make it better.\n");
+    printf("If it's better, make it faster.\n");
+    return 0;
+}
+```
+
+## 📫 Let's Connect
+
+- **X/Twitter**: [@WhiteFFalcon](https://x.com/WhiteFFalcon)
+- **GitHub**: [0x000b](https://github.com/0x000b)
+
+---
+
+<div align="center">
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=0x000b&color=58a6ff&style=flat-square)
+  
+  *"Code is poetry written in logic"*
+  
+</div>
