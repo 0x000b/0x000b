@@ -42,9 +42,8 @@ section .data
   
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0x000b&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=0x000b&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=c9d1d9)
-
-</div>
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=0x000b&theme=transparent)](https://git.io/streak-stats)
+ </div>
 
 ## 🎯 What I'm Working On
 
