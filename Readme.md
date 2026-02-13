@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://fr.pinterest.com/pin/424816177362844363" alt="White Falcon Banner" width="100%" />
+  <img src="https://github.com/0x000b/veds/blob/main/l0O5CBW5VnkCY83Mk_gif%20(540%C3%97229).gif" alt="White Falcon Banner" width="100%" />
 </p>
 
 # 👋 Hey there, I'm 0x000b
